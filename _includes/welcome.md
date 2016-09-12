@@ -1,10 +1,8 @@
-# Welcome
+# ברוכים הבאים 
 
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web and what the contributors consider to be best practices at the present
-time.
+ברחבי הרשת קיים כיום מידע מיושן רב אשר גורם למפתחי PHP חדשים לסגל הרגלי פיתוח שגויים וכתיבת קוד לא מאובטח.
+במאמר זה _PHP: The Right Way_ ננסה להביא את המידע העדכני ביותר בתחום ושפה ברורה.
+במאמר נביא את הסטנדרטיים האחרונים בפיתוח וקישור למידע נוסף באתרים חיצוניים שנחשבים  למובילים בתחום כתיבת קוד נכון לכתיבת מאמר זה.
 
 _There is no canonical way to use PHP_. This website aims to introduce new PHP
 developers to some topics which they may not discover until it is too late, and aims
